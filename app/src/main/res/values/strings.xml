@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="label">Paneer Quantity</string>
+    <string name="paneer">Paneer Quantity</string>
+    <string name="flour">Flour Quantity</string>
+    <string name="veg">Veg Quantity</string>
+    <string name="submit">Submit</string>
+    <string name="guide">Submission possible within 5 meter of store location</string>
+</resources>
